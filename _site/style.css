@@ -667,6 +667,12 @@ section#contact {
     background-repeat: no-repeat;
 }
 
+section#Facilities p {
+    text-align: center;
+    background: #fff;
+    border: 1px solid blue;
+}
+
 section#contact .section-heading {
     color: #fff;
 }
