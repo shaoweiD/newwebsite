@@ -84,7 +84,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: e_mail
+    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -95,7 +95,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: E-mail
+    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -104,9 +104,9 @@ people:
   pic: 9
   position: Sophomore, ME
   social:
-    - title: e-mail
+    - title: twitter
       url: #
-    - title: Email
+    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -115,7 +115,7 @@ people:
   pic: 10
   position: Freshman, ME
   social:
-    - title: pintrest
+    - title: envelope
       url: mailto:asnilles@iastate.edu
     - title: google-plus
       url: https://plus.google.com/114745334590360490433/posts/p/pub
