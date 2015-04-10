@@ -53,7 +53,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Eric Mootz
@@ -64,7 +64,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Jacob Davis
@@ -75,7 +75,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Granit Vokshi
@@ -84,9 +84,9 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: e_mail
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Ashlee Fredericksen
@@ -95,27 +95,27 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: E-mail
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Anne Leners
   pic: 9
   position: Sophomore, ME
   social:
-    - title: twitter
+    - title: e-mail
       url: #
-    - title: facebook
+    - title: Email
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 - name: Andrew Nilles
   pic: 10
   position: Freshman, ME
   social:
-    - title: email
+    - title: pintrest
       url: mailto:asnilles@iastate.edu
     - title: google-plus
       url: https://plus.google.com/114745334590360490433/posts/p/pub
