@@ -667,10 +667,11 @@ section#contact {
     background-repeat: no-repeat;
 }
 
-section#Facilities p {
+section#Facilities caption {
     text-align: center;
     background: #fff;
-    border: 1px solid blue;
+    border-top: 4px solid red;
+    padding-bottom: 12px;
 }
 
 section#contact .section-heading {
