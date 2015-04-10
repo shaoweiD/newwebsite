@@ -657,68 +657,68 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#Facilities {
     background-color: #222;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
+section#Facilities .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+section#Facilities .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#Facilities .form-group input,
+section#Facilities .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#Facilities .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#Facilities .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
+section#Facilities .form-control:focus {
     border-color: #{{ site.color.primary }};
     box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+section#Facilities::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+section#Facilities:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+section#Facilities::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+section#Facilities:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+section#Facilities .text-danger {
     color: #e74c3c;
 }
 
