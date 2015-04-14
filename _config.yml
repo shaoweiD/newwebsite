@@ -4,7 +4,7 @@ baseurl: /newwebsite/
 # Site settings
 title: The Claussen Lab
 email: jcclauss@iastate.edu
-description: "Please contact Prof. Claussen  <a href="mailto:jcclauss@iastate.edu">via email</a> if you are interested in joining the group. We are currently looking for highly motivated postdocs, graduate students, and undergraduate students to join the group."
+description: "Please contact Prof. Claussen  (jcclauss@iastate.edu) if you are interested in joining the group. We are currently looking for highly motivated postdocs, graduate students, and undergraduate students to join the group."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: cb1a2a
