@@ -679,6 +679,7 @@ section#Facilities {
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
+    color: #fff;
 }
 
 section#Facilities p {
