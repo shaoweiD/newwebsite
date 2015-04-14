@@ -18,81 +18,81 @@ people:
   position: Postdoc
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:srdaspurdue@gmail.com
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/suprem-das/26/133/100
 
 - name: Shaowei Ding
   pic: 2
   position: PhD student
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:swding@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/ding-shaowei/46/b79/399
 
 - name: Allison Cargill
   pic: 3
   position: MS student
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:aacargill@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/allison-cargill/35/b96/4ab
 
 - name: Bolin Chen
   pic: 4
   position: MS student
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:cbl0511@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/bolinchen
 
 - name: Eric Mootz
   pic: 5
   position: Senior, ME
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:ejmootz@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/eric-mootz/63/17a/46a
 
 - name: Jacob Davis
   pic: 6
   position: Junior, ME
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:jadavis@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/jacob-davis/a3/8b0/527
 
 - name: Granit Vokshi
   pic: 7
   position: Junior, ME
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:gvokshi@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/granit-vokshi/a4/a9a/b90
 
 - name: Ashlee Fredericksen
   pic: 8
   position: Junior, ME
   social:
     - title: envelope
-      url: mailto:
+      url: mailto:ashleef@iastate.edu
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/ashlee-fredericksen/80/919/63
 
 - name: Anne Leners
   pic: 9
   position: Sophomore, ME
   social:
     - title: envelope
-      url: mailto:
-    - title: linkedin
-      url: #
+      url: mailto:aleners@iastate.edu
+    - title: google-plus
+      url: https://plus.google.com/113951348228933739396/about
 
 - name: Andrew Nilles
   pic: 10
@@ -118,7 +118,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2104 Black Engineering
   - line: Iowa State University
   - line: Ames,IA
 
