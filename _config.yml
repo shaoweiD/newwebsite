@@ -3,8 +3,8 @@ baseurl: /newwebsite/
 
 # Site settings
 title: The Claussen Lab
-email: lee901201@hotmail.com
-description: "Please contact Prof. Claussen via email (jcclauss@iastate.edu) if you are interested in joining the group. We are currently looking for highly motivated postdocs, graduate students, and undergraduate students to join the group."
+email: jcclauss@iastate.edu
+description: "Please contact Prof. Claussen  <a href="mailto:jcclauss@iastate.edu">via email</a> if you are interested in joining the group. We are currently looking for highly motivated postdocs, graduate students, and undergraduate students to join the group."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: cb1a2a
@@ -17,21 +17,17 @@ people:
   pic: 1
   position: Postdoc
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: envelope
+      url: mailto:
+    - title: linkedin
       url: #
 
 - name: Shaowei Ding
   pic: 2
   position: PhD student
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -39,20 +35,17 @@ people:
   pic: 3
   position: MS student
   social:
-    - title: twitter
+    - title: envelope
+      url: mailto:
+    - title: linkedin
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 - name: Bolin Chen
   pic: 4
   position: MS student
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -60,10 +53,8 @@ people:
   pic: 5
   position: Senior, ME
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -71,10 +62,8 @@ people:
   pic: 6
   position: Junior, ME
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -82,10 +71,8 @@ people:
   pic: 7
   position: Junior, ME
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -93,10 +80,8 @@ people:
   pic: 8
   position: Junior, ME
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -104,10 +89,8 @@ people:
   pic: 9
   position: Sophomore, ME
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: envelope
+      url: mailto:
     - title: linkedin
       url: #
 
@@ -135,6 +118,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: 2104 Black Engineering
   - line: Iowa State University
   - line: Ames,IA
 
