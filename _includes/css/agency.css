@@ -62,6 +62,10 @@ td {
   vertical-align: top;
 }
 
+th.gsc_a_c {
+   text-align: center;
+}
+
 .img-centered {
     margin: 0 auto;
 }
