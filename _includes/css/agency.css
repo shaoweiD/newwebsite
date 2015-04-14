@@ -641,7 +641,7 @@ section h3.section-subheading {
 .Claussen-ID {
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 .picture {
@@ -649,7 +649,7 @@ section h3.section-subheading {
     padding-bottom: 90px;
 }
 
-.info p, h3 {
+.Dr_Info h3 {
     color: gold;
 }
 
