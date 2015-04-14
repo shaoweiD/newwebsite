@@ -634,6 +634,21 @@ section h3.section-subheading {
     }
 }
 
+.Claussen-ID {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.picture {
+    padding-left: 50px;
+    padding-bottom: 90px;
+}
+
+.info p, h3 {
+    color: gold;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
