@@ -64,6 +64,10 @@ h6 {
     font-weight: 700;
 }
 
+th.gsc_a_c {
+   text-align: center;
+}
+
 .img-centered {
     margin: 0 auto;
 }
