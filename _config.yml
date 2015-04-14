@@ -1,8 +1,8 @@
-url: "http://shaoweiD.github.io"
+url: http://shaoweid.github.io
 baseurl: /newwebsite/
 
 # Site settings
-title: "The Claussen Lab"
+title: The Claussen Lab
 email: jcclauss@iastate.edu
 description: "Please contact Prof. Claussen  <a href="mailto:jcclauss@iastate.edu">via email</a> if you are interested in joining the group. We are currently looking for highly motivated postdocs, graduate students, and undergraduate students to join the group."
 # Color settings (hex-codes without the leading hash-tag)
