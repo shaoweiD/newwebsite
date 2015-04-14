@@ -57,8 +57,9 @@ h6 {
     font-weight: 700;
 }
 
-tr {
-    border-top: 2px dashed;
+td {
+  padding: 3px;
+  vertical-align: top;
 }
 
 .img-centered {
