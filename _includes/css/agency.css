@@ -663,6 +663,13 @@ section#Facilities {
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
+}
+
+section#Facilities p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 12px;
     color: #fff;
 }
 
