@@ -440,6 +440,10 @@ section h3.section-subheading {
     }
 }
 
+.pblstart {
+    padding-top: 12px;
+}
+
 .timeline {
     position: relative;
     padding: 0;
