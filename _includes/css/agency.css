@@ -639,17 +639,18 @@ section h3.section-subheading {
     }
 }
 
-.Claussen-ID {
+table.Claussen-ID {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0px;
 }
 
 .picture {
-    padding-left: 50px;
     padding-bottom: 90px;
+    padding-right: 15px;
 }
 
+}
 .Dr_Info h3 {
     color: gold;
 }
