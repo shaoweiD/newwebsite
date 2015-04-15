@@ -231,7 +231,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background: linear-gradient(red,#{{ site.color.primary }});
+    background: linear-gradient(red,#8A0808);
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -751,7 +751,7 @@ section#Facilities .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
-    background: linear-gradient(#fff,#ddd);
+    background: linear-gradient(#fff,#848484);
 }
 
 footer span.copyright {
