@@ -363,6 +363,12 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+/*
+section#services .col-md-4 img {
+    outline: blue solid medium;
+}
+*/
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
