@@ -50,7 +50,7 @@ people:
       url: https://www.linkedin.com/in/bolinchen
 
 - name: Eric Mootz
-  pic: Eric
+  pic: 5
   position: Senior, ME
   social:
     - title: envelope
@@ -86,7 +86,7 @@ people:
       url: https://www.linkedin.com/pub/ashlee-fredericksen/80/919/63
 
 - name: Anne Leners
-  pic: Ann
+  pic: 9
   position: Sophomore, ME
   social:
     - title: envelope
