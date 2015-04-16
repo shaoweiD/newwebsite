@@ -4,7 +4,7 @@ subtitle: subtle
 layout: default
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
 date: 2014-07-18
-img: dreams.png
+img: cover1.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
