@@ -363,6 +363,14 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.scholar {
+    position: relative;
+    top: -125px;
+    float: right;
+    padding-right: 20px;
+    outline: solid #{{ site.color.secondary }} 1px;
+}
+
 /*
 section#services .col-md-4 img {
     outline: blue solid medium;
