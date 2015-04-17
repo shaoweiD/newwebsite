@@ -309,6 +309,12 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-subtitle {
+    font-family: "SST W01 Roman", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
