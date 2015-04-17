@@ -368,7 +368,7 @@ section#Alum {
     background: linear-gradient(to left, #E6AC38, #{{ site.color.secondary }}, #E6AC38);
 }
 
-.alumni ul {
+section#Alum ul {
     padding-left: 0px;
 }
 
