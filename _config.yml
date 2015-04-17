@@ -106,20 +106,20 @@ people:
 # Alumni 
 alumni:
 - name: Alumni Name
-  graduation: "2014"
+  graduation: yearod
   social:
     - title: envelope
-    url: mailto:receipient1@email.org
+      url: mailto:receipient1@email.org
     - title: linkedin
-    url: http://www.linkedin.com
+      url: http://www.linkedin.com
 
 - name: Alumni 2
-  graduation: "2015"
+  graduation: jnumbr2
   social:
     - title: envelope
-    url: mailto:receipient2@email.org
+      url: mailto:receipient2@email.org
     - title: linkedin
-    url: http://www.linkedin.com
+      url: http://www.linkedin.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
