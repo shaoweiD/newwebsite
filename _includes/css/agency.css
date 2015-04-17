@@ -388,7 +388,8 @@ section#Publications .section-heading a {
 }
 
 .publ-list p {
-    margin-bottom: -2px;
+    line-height: 110%;
+    margin-bottom: 0px;
 }
 
 .publ-list li {
