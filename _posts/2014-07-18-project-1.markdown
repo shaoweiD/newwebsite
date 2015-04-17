@@ -5,7 +5,7 @@ layout: default
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
 date: 2014-07-18
 img: cover1.png
-thumbnail: dreams-thumbnail.png
+thumbnail: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
