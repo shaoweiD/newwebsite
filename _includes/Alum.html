@@ -9,13 +9,11 @@
     <ul class="alumni">
         {% for member in site.alumni %}
         <li>
-            <h4>{{ member.name }}</h4>
-            <p class="text-muted">{{ member.graduation }}</p>
-            <ul class="list-inline social-buttons">
-                {% for network in member.social %}
-                <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
-                {% endfor %}
-            </ul>
+            <strong>{{ member.name }}</strong>  
+            {% for network in member.social %}
+                <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+            {% endfor %}
+            <span class="text-muted">{{ member.graduation }}</span>
         </li>
         {% endfor %}
     </ul>
