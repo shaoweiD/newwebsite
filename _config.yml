@@ -105,16 +105,14 @@ people:
 
 # Alumni 
 alumni:
-- name: Wyatt Bruns
+- name: Wyatt Burns
   graduation: B.S Mechanical Engineering, 2014
   social:
-    - title: envelope
-      url: mailto:receipient1@email.org
     - title: linkedin
       url: http://www.linkedin.com
 
 - name: Alumni 2
-  graduation: M.S Pure Awesomeness, 2013
+  graduation: (ISU undergrad)
   social:
     - title: envelope
       url: mailto:receipient2@email.org
