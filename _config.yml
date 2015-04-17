@@ -106,7 +106,7 @@ people:
 # Alumni 
 alumni:
 - name: Alumni Name
-  graduation: yearod
+  graduation: "55"
   social:
     - title: envelope
       url: mailto:receipient1@email.org
@@ -114,7 +114,7 @@ alumni:
       url: http://www.linkedin.com
 
 - name: Alumni 2
-  graduation: jnumbr2
+  graduation: 44
   social:
     - title: envelope
       url: mailto:receipient2@email.org
