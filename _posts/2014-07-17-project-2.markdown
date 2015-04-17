@@ -2,10 +2,11 @@
 title: the amazing 2
 subtitle: Website Design
 layout: default
-modal-id: 2
+
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: golden.png
+modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
+thumbnail: golden.png
 alt: image-alt
 project-date: March 2014
 client: Start Bootstrap
