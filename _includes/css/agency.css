@@ -378,6 +378,10 @@ section#Alum ul {
     text-align: center;
 }
 
+.alumni i {
+    padding: 10px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
