@@ -388,6 +388,11 @@ section#Alum ul {
     text-transform: none;
 }
 
+.research-bar img {
+    padding-top: 30px;
+    width: 80%;
+}
+
 section#Publications .section-heading a {
     color: black;
 }
