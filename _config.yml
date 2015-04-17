@@ -105,8 +105,8 @@ people:
 
 # Alumni 
 alumni:
-- name: Alumni Name
-  graduation: "55"
+- name: Wyatt Bruns
+  graduation: 2014
   social:
     - title: envelope
       url: mailto:receipient1@email.org
@@ -114,7 +114,7 @@ alumni:
       url: http://www.linkedin.com
 
 - name: Alumni 2
-  graduation: 44
+  graduation: 2013
   social:
     - title: envelope
       url: mailto:receipient2@email.org
