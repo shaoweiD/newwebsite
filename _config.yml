@@ -103,6 +103,24 @@ people:
     - title: google-plus
       url: https://plus.google.com/114745334590360490433/posts/p/pub
 
+# Alumni 
+alumni:
+- name: Alumni Name
+  graduation: "2014"
+  social:
+    - title: envelope
+    url: mailto:receipient1@email.org
+    - title: linkedin
+    url: http://www.linkedin.com
+
+- name: Alumni 2
+  graduation: "2015"
+  social:
+    - title: envelope
+    url: mailto:receipient2@email.org
+    - title: linkedin
+    url: http://www.linkedin.com
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
