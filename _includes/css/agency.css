@@ -364,6 +364,14 @@ section h3.section-subheading {
     }
 }
 
+section#Alum {
+    background: linear-gradient(to left, {{ site.color.primary }}, {{ site.color.secondary }});
+}
+
+.alumni {
+    outline: solid black;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
