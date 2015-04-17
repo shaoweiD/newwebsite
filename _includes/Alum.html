@@ -5,17 +5,18 @@
             <h3 class="section-subheading text-muted"Past laboratory participants</h3>
         </div>
     </div>
-    {% for member in site.alumni %}
+    <!--List of all alums-->
     <ul class="alumni">
+        {% for member in site.alumni %}
         <li>
             <h4>{{ member.name }}</h4>
             <p class="text-muted">{{ member.graduation }}</p>
-            <ul class="list-inline social-buttons">
+            <p class="list-inline social-buttons">
                 {% for network in member.social %}
-                <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                 {% endfor %}
-            </ul>
+            </p>
         </li>
-    {% endfor %}
+        {% endfor %}
     </ul>
 </section>
