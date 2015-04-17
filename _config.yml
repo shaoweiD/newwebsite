@@ -109,15 +109,13 @@ alumni:
   graduation: B.S Mechanical Engineering, 2014
   social:
     - title: linkedin
-      url: http://www.linkedin.com
+      url: https://twitter.com/wyatt_burns
 
 - name: Alumni 2
   graduation: (ISU undergrad)
   social:
-    - title: envelope
-      url: mailto:receipient2@email.org
     - title: linkedin
-      url: http://www.linkedin.com
+      url: https://www.linkedin.com/reg/join?trk=biz-overview-public-join-h
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
