@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #cb1a2a;
+    color: #fff; /*#fff for cover up for fec503*/
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -245,7 +245,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #fec503;
     background-color: #fec503;
 }
 
@@ -369,6 +369,24 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
 }
+
+section#Publications .section-heading a {
+    color: black;
+}
+
+.scholar {
+    position: relative;
+    top: -125px;
+    float: right;
+    padding-right: 20px;
+    outline: solid #fec503 1px;
+}
+
+/*
+section#services .col-md-4 img {
+    outline: blue solid medium;
+}
+*/
 
 #portfolio .portfolio-item {
     right: 0;
