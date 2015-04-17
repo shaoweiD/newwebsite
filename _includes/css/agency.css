@@ -369,11 +369,11 @@ section#Alum {
 }
 
 .alumni ul {
-    list-style: none;
     padding-left: 0px;
 }
 
 .alumni li {
+    list-style: none;
     padding-bottom: 30px;
     text-align: center;
 }
