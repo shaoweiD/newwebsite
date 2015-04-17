@@ -227,7 +227,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.color.secondary }}; /*#fff for cover up*/
+    color: #fff; /*#fff for cover up for {{ site.color.secondary }}*/
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -361,6 +361,10 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+section#Publications .section-heading a {
+    color: black;
 }
 
 .scholar {
