@@ -365,11 +365,17 @@ section h3.section-subheading {
 }
 
 section#Alum {
-    background: linear-gradient(to left, {{ site.color.primary }}, {{ site.color.secondary }});
+    background: linear-gradient(to left, #{{ site.color.primary }}, #{{ site.color.secondary }});
 }
 
-.alumni {
-    outline: solid black;
+.alumni ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.alumni li {
+    padding-bottom: 30px;
+    text-align: center;
 }
 
 .service-heading {
