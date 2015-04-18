@@ -4,9 +4,9 @@ subtitle: Website Design
 layout: default
 
 date: 2014-07-17
-img: golden.png
+img: dreams.png
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
-thumbnail: golden.png
+thumbnail: dreams.png
 alt: image-alt
 project-date: March 2014
 client: Start Bootstrap
