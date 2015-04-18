@@ -390,6 +390,13 @@ section#Alum ul {
     padding: 10px;
 }
 
+.alumni a {
+    border-radius: 100%;        
+    background: rgba(255,255,255,0.5);
+    display:inline-block;
+    color: #222;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -502,6 +509,24 @@ section#Publications .section-heading a {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+section#Fun h4 {
+    text-transform: capitalize;
+}
+
+.photo-album tr {
+    padding-top: 20px;
+}
+
+.fun-left {
+    float: left;
+    text-align: left;
+}
+
+.fun-right {
+    float: right;
+    text-align: right;
 }
 
 .timeline {

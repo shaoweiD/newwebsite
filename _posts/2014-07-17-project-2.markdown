@@ -2,13 +2,18 @@
 title: the amazing 2
 subtitle: Website Design
 layout: default
-
+modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1020&context=jonathan_claussen
 date: 2014-07-17
+<<<<<<< HEAD
 
 img: dreams.png
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
 thumbnail: dreams.png
 
+=======
+img: golden.png
+thumbnail: dreams.png
+>>>>>>> origin/gh-pages
 alt: image-alt
 project-date: March 2014
 client: Start Bootstrap
