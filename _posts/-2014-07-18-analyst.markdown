@@ -4,8 +4,8 @@ subtitle: subtle
 layout: default
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2075&context=nanopubcontext=jonathan_claussen
 date: 2014-07-18
-img: porterfield-cover_2.jpg
-thumbnail: porterfield-cover_2.jpg
+img: porterfield-cover_2.png
+thumbnail: porterfield-cover_2.png
 alt: image-alt
 project-date: 
 client: Start Bootstrap

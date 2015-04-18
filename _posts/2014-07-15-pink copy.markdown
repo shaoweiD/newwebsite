@@ -1,13 +1,13 @@
 ---
-title: Startup Framework
+title: Analyst, 136, 23, (2011). - COVER ARTICLE.
 subtitle: Website Design
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: porterfield-cover_2png
+modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2075&context=nanopubcontext=jonathan_claussen
+date: 2014-07-15
+img: porterfield-cover_2.png
 thumbnail: porterfield-cover_2.png
 alt: image-alt
-project-date: April 2014
+project-date: 
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
