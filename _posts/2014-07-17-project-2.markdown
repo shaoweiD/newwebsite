@@ -1,14 +1,14 @@
 ---
-title: the amazing 2
+title: Nanoscale
 subtitle: Website Design
 layout: default
 
-date: 2014-07-17
+date: 2013
 img: dreams.png
 modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1020&context=jonathan_claussen
 thumbnail: dreams.png
 alt: image-alt
-project-date: March 2014
+project-date: 2013
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.

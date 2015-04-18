@@ -316,6 +316,12 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-subtitle {
+    font-family: "SST W01 Roman", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -365,32 +371,66 @@ section h3.section-subheading {
     }
 }
 
+section#Alum {
+    background: linear-gradient(to left, #E6AC38, #fec503, #E6AC38);
+    font-size: large;
+}
+
+section#Alum ul {
+    padding-left: 0px;
+}
+
+.alumni li {
+    list-style: none;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.alumni i {
+    padding: 10px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+.research-bar img {
+    padding-top: 30px;
+    width: 80%;
 }
 
 section#Publications .section-heading a {
     color: black;
 }
 
-.scholar {
-    position: relative;
-    top: -125px;
-    float: right;
-    padding-right: 20px;
-    outline: solid #fec503 1px;
+.publ-list p {
+    line-height: 110%;
+    margin-bottom: 0px;
 }
 
-/*
-section#services .col-md-4 img {
-    outline: blue solid medium;
+.publ-list li {
+    padding-bottom: 6px;
 }
-*/
+
+.publ-list h5 {
+    padding-top: 18px;
+}
+
+.indenter {
+    text-indent: -5px;
+    padding-left: 5px;
+}
 
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+}
+
+#portfolio img {
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #portfolio .portfolio-item .portfolio-link {
