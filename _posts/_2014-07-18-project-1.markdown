@@ -1,5 +1,5 @@
 ---
-title: ACS Appl. Mater. & Interfaces. 6,6, (2014) COVER ARTICLE
+title: journal art 1
 subtitle: subtle
 layout: default
 modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1016&context=jonathan_claussen

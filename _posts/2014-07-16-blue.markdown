@@ -1,5 +1,5 @@
 ---
-title: this is awesome
+title: Adv. Funct. Mater. 22, 16, (2012). - COVER ARTICLE
 subtitle: Website Design
 layout: default
 modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
@@ -7,7 +7,7 @@ date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: May 2014
+project-date: 
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
