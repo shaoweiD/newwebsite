@@ -2,7 +2,7 @@
 title: this is awesome
 subtitle: Website Design
 layout: default
-modal-id: 3
+modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png

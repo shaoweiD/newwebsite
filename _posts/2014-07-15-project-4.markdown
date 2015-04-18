@@ -2,7 +2,7 @@
 title: Treehouse
 subtitle: Website Design
 layout: default
-modal-id: 4
+modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1020&context=jonathan_claussen
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse.png

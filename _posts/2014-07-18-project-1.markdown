@@ -2,7 +2,7 @@
 title: journal art 1
 subtitle: subtle
 layout: default
-modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
+modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1016&context=jonathan_claussen
 date: 2014-07-18
 img: golden.png
 thumbnail: golden.png
