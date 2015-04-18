@@ -504,6 +504,24 @@ section#Publications .section-heading a {
     }
 }
 
+section#Fun h4 {
+    text-transform: capitalize;
+}
+
+.photo-album tr {
+    padding-top: 20px;
+}
+
+.fun-left {
+    float: left;
+    text-align: left;
+}
+
+.fun-right {
+    float: right;
+    text-align: right;
+}
+
 .timeline {
     position: relative;
     padding: 0;
