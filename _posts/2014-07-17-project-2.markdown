@@ -5,7 +5,7 @@ layout: default
 
 date: 2014-07-17
 img: dreams.png
-modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
+modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1020&context=jonathan_claussen
 thumbnail: dreams.png
 alt: image-alt
 project-date: March 2014
