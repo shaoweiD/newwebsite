@@ -1,0 +1,15 @@
+---
+title: ACS Nano, 3, 1, (2009) - COVER ARTICLE
+subtitle: subtle
+layout: default
+modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1026&context=jonathan_claussen
+date: 2014-07-18
+img: escape-thumbnail.jpg
+thumbnail: escape-thumbnail.jpg
+alt: image-alt
+project-date: 
+client: Start Bootstrap
+category: Nanoparticles
+description: Amazing stuff and such.
+
+---
