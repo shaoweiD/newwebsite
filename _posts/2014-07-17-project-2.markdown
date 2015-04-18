@@ -4,8 +4,14 @@ subtitle: Website Design
 layout: default
 modal-id: http://works.bepress.com/cgi/viewcontent.cgi?article=1020&context=jonathan_claussen
 date: 2014-07-17
+<<<<<<< HEAD
 
-img: golden.png
+img: dreams.png
+modal-id: http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2150&context=nanopub
+thumbnail: dreams.png
+
+=======
+img: dreams.png
 thumbnail: dreams.png
 >>>>>>> origin/gh-pages
 alt: image-alt
