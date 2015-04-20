@@ -395,6 +395,11 @@ section#Alum ul {
     text-transform: none;
 }
 
+.research-bar td {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
 .research-bar img {
     padding-top: 30px;
     width: 80%;
