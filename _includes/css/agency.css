@@ -413,6 +413,10 @@ section#Publications .section-heading a {
     color: black;
 }
 
+section#Publications .section-subheading {
+    margin-bottom: 4px;
+}
+
 .publ-list p {
     line-height: 110%;
     margin-bottom: 0px;
