@@ -390,6 +390,11 @@ section#Alum ul {
     color: #222;
 }
 
+.newspaper p {
+    text-indent: 6px;
+    border-bottom: 1.5px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
