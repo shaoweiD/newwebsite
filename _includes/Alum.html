@@ -13,7 +13,7 @@
             {% for network in member.social %}
                 <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
             {% endfor %}
-            <span class="text-muted">{{ member.graduation }}, now at {{ member.workplace }}</span>
+            <span class="text-muted">{{ member.graduation }} (now at {{ member.workplace }})</span>
         </li>
         {% endfor %}
     </ul>
