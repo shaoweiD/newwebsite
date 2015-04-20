@@ -111,12 +111,14 @@ people:
 alumni:
 - name: Wyatt Burns
   graduation: B.S Mechanical Engineering, 2014
+  workplace: Graduate school
   social:
     - title: linkedin
       url: https://twitter.com/wyatt_burns
 
 - name: Alumni 2
   graduation: (ISU undergrad)
+  workplace: where they are now
   social:
     - title: linkedin
       url: https://www.linkedin.com/reg/join?trk=biz-overview-public-join-h
