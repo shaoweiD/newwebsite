@@ -741,6 +741,11 @@ table.Claussen-ID {
     margin-bottom: 0px;
 }
 
+.Claussen-ID ul {
+    text-align: center;
+    padding-top: 14px;
+}
+
 .picture {
     padding-bottom: 90px;
     padding-right: 15px;
