@@ -405,6 +405,10 @@ section#Alum ul {
     width: 80%;
 }
 
+.research-summary {
+    padding-top: 44px;
+}
+
 section#Publications .section-heading a {
     color: black;
 }
