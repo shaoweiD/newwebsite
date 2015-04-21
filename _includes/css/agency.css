@@ -390,6 +390,11 @@ section#Alum ul {
     color: #222;
 }
 
+section#News {
+    background: linear-gradient(to right, #E2C759, khaki, #E2C759);
+    /* if we want (repeat-y) background-image: url("http://i445.photobucket.com/albums/qq179/Benmariusca/old_paper.jpg");*/
+}
+
 .newspaper p {
     text-indent: 6px;
     border-bottom: 1.5px;
