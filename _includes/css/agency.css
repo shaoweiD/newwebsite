@@ -395,9 +395,13 @@ section#News {
     /* if we want (repeat-y) background-image: url("http://i445.photobucket.com/albums/qq179/Benmariusca/old_paper.jpg");*/
 }
 
+section#News li {
+    list-style: none;
+    margin-left: -25px;
+}
+
 .newspaper p {
     text-indent: 6px;
-    border-bottom: 1.5px;
 }
 
 .service-heading {
