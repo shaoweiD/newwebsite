@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="row">
-                {% 2 for member in site.people %}
+                {% for loop=2 member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
