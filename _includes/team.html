@@ -35,8 +35,7 @@
                 </div>
             </div>
             <div class="row">
-                {% if member.position == 'Postdoc' %}
-                {% for member in site.people %}
+                {% for member in site.people limit:4 %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -50,7 +49,6 @@
                     </div>
                 </div>
                 {% endfor %}
-                {% endif %}
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
