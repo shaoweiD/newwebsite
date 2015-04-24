@@ -34,7 +34,14 @@ people:
       url: https://github.com/shaoweiD
     - title: user
       url: http://www.shaoweiding.com
-
+  
+- name: Kashama Parate
+  pic: 11
+  position: PhD student
+  social:
+    - title: envelope
+      url: mailto:hparate@gmail.com
+   
 - name: Allison Cargill
   pic: 3
   position: MS student
