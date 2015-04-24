@@ -397,9 +397,28 @@ section#Alum ul {
     color: #222;
 }
 
+section#News {
+    background: linear-gradient(to right, #E2C759, khaki, #E2C759);
+    /* if we want (repeat-y) background-image: url("http://i445.photobucket.com/albums/qq179/Benmariusca/old_paper.jpg");*/
+}
+
+section#News li {
+    list-style: none;
+    margin-left: -25px;
+}
+
+.newspaper p {
+    text-indent: 6px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+.research-bar td {
+    padding-right: 7px;
+    padding-left: 7px;
 }
 
 .research-bar img {
@@ -407,8 +426,16 @@ section#Alum ul {
     width: 80%;
 }
 
+.research-summary {
+    padding-top: 44px;
+}
+
 section#Publications .section-heading a {
     color: black;
+}
+
+section#Publications .section-subheading {
+    margin-bottom: 4px;
 }
 
 .publ-list p {
@@ -733,6 +760,11 @@ table.Claussen-ID {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0px;
+}
+
+.Claussen-ID ul {
+    text-align: center;
+    padding-top: 14px;
 }
 
 .picture {
