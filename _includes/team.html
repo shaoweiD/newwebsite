@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="row Postdoc PhD">
-                {% for member in site.people limit:2 %}
+                {% for member in site.people limit:3 %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -51,7 +51,7 @@
                 {% endfor %}
             </div>
             <div class="row MS-student">
-                {% for member in site.people limit:2 offset:2 %}
+                {% for member in site.people limit:2 offset:3 %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
@@ -67,7 +67,7 @@
                 {% endfor %}
             </div>
             <div class="row undergraduate">
-                {% for member in site.people offset:4 %}
+                {% for member in site.people offset:5 %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
