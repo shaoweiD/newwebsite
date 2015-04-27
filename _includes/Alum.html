@@ -7,14 +7,10 @@
     </div>
     <!--List of all alums-->
     <ul class="alumni">
-        {% for member in site.alumni %}
         <li>
-            <strong>{{ member.name }}</strong>  
-            {% for network in member.social %}
-                <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-            {% endfor %}
-            <span class="text-muted">{{ member.graduation }} (now at {{ member.workplace }})</span>
+            <strong>Wyatt Burns</strong>  
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+            <span class="text-muted">2014, B.S. Mechanical Engineering (expected 2017)</span>
         </li>
-        {% endfor %}
     </ul>
 </section>
