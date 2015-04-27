@@ -400,8 +400,8 @@ section#News li {
     margin-left: -25px;
 }
 
-.newspaper p {
-    text-indent: 6px;
+.newspaper {
+    margin-right: 20px;
 }
 
 .service-heading {
@@ -611,11 +611,8 @@ section#Fun h4 {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
