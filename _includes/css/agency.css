@@ -413,6 +413,8 @@ section#News li {
 .research-bar td {
     padding-right: 7px;
     padding-left: 7px;
+    width: 20%;
+    vertical-align: middle;
 }
 
 .research-bar img {
@@ -421,7 +423,7 @@ section#News li {
 }
 
 .research-summary {
-    padding-top: 44px;
+    padding-top: 4px;
 }
 
 section#Publications .section-heading a {
