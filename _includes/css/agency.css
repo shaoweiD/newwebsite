@@ -548,6 +548,10 @@ section#Fun td.right-photo {
     text-align: left;
 }
 
+section#Fun img {
+    border-radius: 6%;
+}
+
 .timeline {
     position: relative;
     padding: 0;
