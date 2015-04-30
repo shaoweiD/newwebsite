@@ -537,18 +537,15 @@ section#Fun h4 {
     text-transform: capitalize;
 }
 
-.photo-album tr {
-    padding-top: 20px;
-}
-
-.fun-left {
-    float: left;
-    text-align: left;
-}
-
-.fun-right {
-    float: right;
+section#Fun td {
+    width: 34%;
     text-align: right;
+    vertical-align: middle;
+    padding: 16px 13px 0px 0px;
+}
+
+section#Fun td.right-photo {
+    text-align: left;
 }
 
 .timeline {
