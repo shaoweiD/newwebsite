@@ -313,6 +313,8 @@ header .intro-subtitle {
     font-family: "SST W01 Roman", Helvetica, Arial, sans-serif;
     color: #ffffff;
     font-size: 15px;
+    text-transform: capitalize;
+    text-shadow: black -1px 1px 6px;
 }
 
 @media(min-width:768px) {
