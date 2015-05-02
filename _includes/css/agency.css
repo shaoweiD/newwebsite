@@ -552,6 +552,7 @@ section#Fun td.right-photo {
 
 section#Fun img {
     border-radius: 6%;
+    width: 99% !important;
 }
 
 .timeline {
