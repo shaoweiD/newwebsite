@@ -105,15 +105,6 @@ people:
     - title: google-plus
       url: https://plus.google.com/113951348228933739396/about
 
-- name: Andrew Nilles
-  pic: 10
-  position: Freshman, ME
-  social:
-    - title: envelope
-      url: mailto:asnilles@iastate.edu
-    - title: google-plus
-      url: https://plus.google.com/114745334590360490433/posts/p/pub
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
